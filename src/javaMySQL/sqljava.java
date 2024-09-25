@@ -73,6 +73,8 @@ public class sqljava {
 			System.out.println("Age : " + age);
 			System.out.println("mail : " + mail);
 			System.out.println("===========================================");
+
+			
 		}
 		
 		
